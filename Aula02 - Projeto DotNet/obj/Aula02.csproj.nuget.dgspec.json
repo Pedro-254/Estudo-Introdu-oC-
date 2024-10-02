@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02\\Aula02.csproj": {}
+    "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02 - Projeto DotNet\\Aula02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02\\Aula02.csproj": {
+    "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02 - Projeto DotNet\\Aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02\\Aula02.csproj",
+        "projectUniqueName": "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02 - Projeto DotNet\\Aula02.csproj",
         "projectName": "Aula02",
-        "projectPath": "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02\\Aula02.csproj",
+        "projectPath": "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02 - Projeto DotNet\\Aula02.csproj",
         "packagesPath": "C:\\Users\\Unifpadorno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02\\obj\\",
+        "outputPath": "C:\\Users\\Unifpadorno\\Documents\\Github\\Study-CSharpIntroduction\\Aula02 - Projeto DotNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unifpadorno\\AppData\\Roaming\\NuGet\\NuGet.Config"
